@@ -1,4 +1,4 @@
-def hello_world(**kwargs):
+def detect001(**kwargs):
     
     import argparse
     import os
